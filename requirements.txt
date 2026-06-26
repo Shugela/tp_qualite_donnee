@@ -18,11 +18,13 @@ ImageHash==4.3.2
 ipykernel==7.3.0
 ipython==9.14.1
 ipython_pygments_lexers==1.1.1
+ipywidgets==8.1.8
 jedi==0.20.0
 Jinja2==3.1.6
 joblib==1.5.3
 jupyter_client==8.9.1
 jupyter_core==5.9.1
+jupyterlab_widgets==3.0.16
 kiwisolver==1.5.0
 llvmlite==0.45.1
 MarkupSafe==3.0.3
@@ -33,7 +35,7 @@ multimethod==1.12
 nest-asyncio2==1.7.2
 networkx==3.6.1
 numba==0.62.1
-numpy==2.3
+numpy==2.3.0
 packaging==26.2
 pandas==2.3.3
 parso==0.8.7
@@ -73,5 +75,6 @@ tzdata==2026.2
 urllib3==2.7.0
 visions==0.8.1
 wcwidth==0.8.1
+widgetsnbextension==4.0.15
 wordcloud==1.9.6
 ydata-profiling==4.18.4
